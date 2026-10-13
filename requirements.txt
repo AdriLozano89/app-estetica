@@ -2,4 +2,4 @@ streamlit>=1.40
 streamlit-calendar
 pandas
 Pillow>=10.1
-tzdata+
+tzdata
